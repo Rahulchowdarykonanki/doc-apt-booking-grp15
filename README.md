@@ -1,6 +1,11 @@
 # Install Node JS
 https://nodejs.org/en/
 
+##Go to Project directory and type
+
+### `npm install -g yarn`
+### `yarn install`
+### `yarn start`
 
 # Getting Started with Create React App
 
