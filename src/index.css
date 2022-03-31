@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+header, footer, .App {
+  padding: .5rem 1rem;
+}
+
+header {
+  border-bottom: 1px solid teal;
+}
+
+footer {
+  border-top: 1px solid teal;
+  width: 100%;
+  color: white;
+  background-color: darkslategray;
+  padding: 3rem 1rem;
+  overflow: hidden;
+}
